@@ -9,10 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.1.0 
-  google_sign_in: ^5.2.4
-  shared_preferences: ^2.0.13
-  fl_chart: ^0.40.0 
 
 
 dev_dependencies:
